@@ -1,0 +1,17 @@
+h1 {
+   font-size: 62.5 em;
+   line-height: 40px;
+   margin: 0px 0px 15px 0px;
+   font-family: "Ablati Oldstyle W01 Regular";
+}
+h3 {
+   font-size: 62.5 em;
+   line-height: 0px;
+   margin: 0px 0px 19px 0px;
+   font-family: mf-abbiente-150542;
+}
+body {
+    font-size: 62.5%;
+     margin: 0px 0px 25px 0px;
+   font-family: "Ablati Oldstyle W01 Regular";
+}
